@@ -1,3 +1,5 @@
+![](https://github.com/fazlera/fazlera/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
